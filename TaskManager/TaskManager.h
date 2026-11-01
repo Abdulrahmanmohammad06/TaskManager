@@ -2,4 +2,5 @@
 
 
 void ShowTasks();
+void AddTask();
 
