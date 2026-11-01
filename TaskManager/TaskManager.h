@@ -3,4 +3,5 @@
 
 void ShowTasks();
 void AddTask();
+void DeleteTask();
 
